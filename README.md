@@ -27,4 +27,4 @@ Visualizing correlations between features, outlier detection, feature importance
 
 ### Predictive Modelling
 
-Various machine learning models like Linear Regression, Random Forest, Gradient Boosting are trained and their performance is compared.
+Various machine learning models like Linear Regression, Random Forest are trained and their performance is compared.
