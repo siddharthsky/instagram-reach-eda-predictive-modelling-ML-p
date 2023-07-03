@@ -10,7 +10,6 @@
   <a href="#about">About</a> •
   <a href="#dataset">Dataset</a> •
   <a href="#similarity-algorithms">EDA</a> •
-  <a href="#dataset">Predictive Modelling</a> 
 </p>
 
 ### About
@@ -25,6 +24,4 @@ The dataset contains information about 5249 Instagram posts from various influen
 
 Visualizing correlations between features, outlier detection, feature importance, etc.
 
-### Predictive Modelling
 
-Various machine learning models like Linear Regression, Random Forest are trained and their performance is compared.
