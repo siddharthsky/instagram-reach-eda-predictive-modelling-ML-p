@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#dataset">Dataset</a> •
-  <a href="#similarity-algorithms">EDA</a> •
+  <a href="#EDA">EDA</a> 
 </p>
 
 ### About
