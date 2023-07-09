@@ -12,13 +12,121 @@
   <a href="#EDA">EDA</a> 
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### About
 
 This project performs Exploratory Data Analysis and builds predictive models for estimating reach of Instagram posts.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Dataset
 
 The dataset contains information about 5249 Instagram posts from various influencers and businesses with features like hashtags used, captions, number of likes, comments and followers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### EDA
 
